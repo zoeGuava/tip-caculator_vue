@@ -10,7 +10,7 @@ Started with Vitawind:  [vitawind](https://vitawind-blog.vercel.app/)
 
 [Tip calculator app](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
 
-![img](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
+![img](https://res.cloudinary.com/dz209s6jk/image/upload/v1625753687/Challenges/wfczmy0nrltpwqyaovg6.jpg)
 
 ---
 
